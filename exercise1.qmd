@@ -47,7 +47,9 @@ Ensure that the script runs in full and push to your repository.
 
 ### Exercise 2
 
-1. Create a vector my_vec with the numbers from 1 through 8.
+
+1. Create a vector `my_vec` with the numbers from 1 through 8.
+
 ```{r}
 # Your answer here
 ```
